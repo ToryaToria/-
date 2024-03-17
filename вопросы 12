@@ -13,3 +13,8 @@
 
 6. где прописать   cursor: pointer; в интерактиве или просто в свойствах кнопки?
 
+7. .control-input:disabled + .control-mark, - работает
+.control-input:disabled + .control-label - не работает?
+{  /* opacity: 0.1; */
+  background-color: green;
+}
